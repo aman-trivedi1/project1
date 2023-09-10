@@ -1,2 +1,4 @@
 # project1
-This is my first repository.
+This is my Git first repository.
+<br>
+Author - Aman Trivedi
